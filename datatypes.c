@@ -58,18 +58,18 @@ void datatypes()
     printf("size of int :%d\n",sizeof(double));
     printf("\n");
 
-
+    //size of structure.
     printf("size of Struct1 :%d\n",sizeof(struct Struct1));
     printf("size of Struct2 :%d\n",sizeof(struct Struct2));
     printf("size of Struct3 :%d\n",sizeof(struct Struct3));
     printf("size of Struct4 :%d\n",sizeof(struct Struct4));
     printf("\n");
 
-
+    //const.
     const int A = 100;
     printf("Size of  int: %d\n", sizeof(A));
 
-
+    //pointers.
     printf("size of int pointer :%d\n",sizeof(int*));
     printf("size of char pointer :%d\n",sizeof(char*));
     printf("size of void pointer :%d\n",sizeof(void*));
