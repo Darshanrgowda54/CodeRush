@@ -6,3 +6,6 @@ CONFIG -= qt
 SOURCES += \
         datatypes.c \
         main.c
+
+DISTFILES += \
+    datatypes.md
