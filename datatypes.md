@@ -23,6 +23,7 @@
 - Structure
 - enum
 
+
 ### Key points 
 - sizeof(12.3) will be considered as double by default and gives size as 8 bytes 
 - sizeof(12.5f) will be considered as float by default and gives size as 4 bytes 
